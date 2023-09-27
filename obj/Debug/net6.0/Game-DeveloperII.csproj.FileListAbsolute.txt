@@ -1,0 +1,15 @@
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\bin\Debug\net6.0\Game-DeveloperII.exe
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\bin\Debug\net6.0\Game-DeveloperII.deps.json
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\bin\Debug\net6.0\Game-DeveloperII.runtimeconfig.json
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\bin\Debug\net6.0\Game-DeveloperII.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\bin\Debug\net6.0\Game-DeveloperII.pdb
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\obj\Debug\net6.0\Game-DeveloperII.csproj.AssemblyReference.cache
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\obj\Debug\net6.0\Game-DeveloperII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\obj\Debug\net6.0\Game-DeveloperII.AssemblyInfoInputs.cache
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\obj\Debug\net6.0\Game-DeveloperII.AssemblyInfo.cs
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\obj\Debug\net6.0\Game-DeveloperII.csproj.CoreCompileInputs.cache
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\obj\Debug\net6.0\Game-DeveloperII.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\obj\Debug\net6.0\refint\Game-DeveloperII.dll
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\obj\Debug\net6.0\Game-DeveloperII.pdb
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\obj\Debug\net6.0\Game-DeveloperII.genruntimeconfig.cache
+C:\Users\franc\Documents\02_Professional\Coding Dojo\06_CSharp\01_Language-Fundamentals\Game-DeveloperII\obj\Debug\net6.0\ref\Game-DeveloperII.dll
